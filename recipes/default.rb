@@ -3,6 +3,8 @@
 # Recipe:: default
 #
 
+include_recipe 'apt'
+
 apt_repository "java" do
   uri "http://ppa.launchpad.net/webupd8team/java/ubuntu"
   distribution "precise"
