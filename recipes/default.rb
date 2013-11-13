@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: java-sitrack
+# Cookbook Name:: java-apt
 # Recipe:: default
 #
 

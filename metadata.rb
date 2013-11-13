@@ -1,4 +1,4 @@
-name             'java-sitrack'
+name             'java-apt'
 maintainer       'Pablo Gutierrez del Castillo'
 maintainer_email 'pablo.gutierrez@sitrack.com'
 license          'MIT'

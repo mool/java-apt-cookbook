@@ -1,4 +1,4 @@
-# java-sitrack cookbook
+# java-apt cookbook
 
 Installs Oracle Java via apt
 
@@ -9,7 +9,7 @@ Works on:
 
 # Usage
 
-Put `recipe[java-sitrack]` in the runlist.
+Put `recipe[java-apt]` in the runlist.
 
 # Author
 
