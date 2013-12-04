@@ -13,4 +13,4 @@ Put `recipe[java-apt]` in the runlist.
 
 # Author
 
-Author:: Pablo Gutiérrez del Castillo (<pablogutierrezdelc@gmail.com>)
+Author:: Pablo Gutierrez del Castillo (<pablogutierrezdelc@gmail.com>)
